@@ -75,7 +75,7 @@ pip install git+https://github.com/klintan/pypcd.git
 ```
 
 ---
-### Train by your own
+### Train by yourself
 ```python
 python opencood/tools/train.py --model_dir ${CHECKPOINT_FOLDER}
 ```
