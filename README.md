@@ -35,8 +35,8 @@ Create a `dataset` folder under any folder path you like and put your data there
 If opencood or HEAL conda environment is already setup on your machine, then trying those environments with our project is totally fine. There might be some modules missing or conflicting, but not going to be too messy. Basically, following [HEAL](https://github.com/yifanlu0227/HEAL) to configure the environment is enough for running this project.
 
 ```bash
-conda create -n rgattn python=3.8
-#both python 3.7 and python 3.8 are fine
+conda create -n rgattn python=3.7
+#both python 3.7 and python 3.8 are fine on our machine
 conda activate rgattn
 
 conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
