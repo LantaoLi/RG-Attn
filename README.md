@@ -77,7 +77,7 @@ pip install git+https://github.com/klintan/pypcd.git
 ---
 ### Train by yourself
 ```python
-python opencood/tools/train.py --model_dir ${CHECKPOINT_FOLDER}
+python opencood/tools/train.py --model_dir ${CHECKPOINT_FOLDER} -y config.yaml
 ```
 
 The corresponding CHECKPOINT_FOLDER is already configured as /RGAttn_root/opencood/logs/CP_Dair_Final/Dair_Clean_PTP and /RGAttn_root/opencood/logs/CP_Dair_Final/Dair_Clean_CoSCoCo.
