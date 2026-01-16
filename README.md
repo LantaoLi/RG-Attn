@@ -1,8 +1,10 @@
 # RG-Attn
 
-**📢 Update**
+**📢 Update #1**
 
 This work has been **accepted to ICCV 2025 DriveX Workshop** and **won the second best paper**.
+
+**📢 Update #2**
 
 A stronger and updated version of this work is now available at: [DRCP](https://github.com/LantaoLi/DRCP)
 
