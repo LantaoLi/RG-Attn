@@ -1,13 +1,5 @@
 # RG-Attn
 
-**📢 Update #1**
-
-This work has been **accepted to ICCV 2025 DriveX Workshop** and **won the second best paper**.
-
-**📢 Update #2**
-
-A stronger and updated version of this work is now available at: [DRCP](https://github.com/LantaoLi/DRCP)
-
 RG-Attn: Radian Glue Attention for Multi-modality Multi-agent Cooperative Perception
 
 This repo is an unofficial realization of RG-Attn paper on DAIR-V2X dataset, which realized **efficient cross-modal fusion** between **LiDAR and Camera** sensory data for **cooperative perception** tasks.
@@ -17,6 +9,14 @@ It also contains two different cooperative perception architectures **Paint-To-P
 [ArXiv](https://arxiv.org/abs/2501.16803)
 
 Since RG-Attn is built on opencood and HEAL, most of the conda environment and dataset configurations are the same.
+
+**📢 Update #1**
+
+This work has been **accepted to ICCV 2025 DriveX Workshop** and **won the second best paper**.
+
+**📢 Update #2**
+
+A stronger and updated version of this work is now available at: [DRCP](https://github.com/LantaoLi/DRCP)
 
 ## Data Preparation
 - DAIR-V2X-C: Download the data from [this page](https://thudair.baai.ac.cn/index). We use complemented annotation, so please also follow the instruction of [this page](https://siheng-chen.github.io/dataset/dair-v2x-c-complemented/).
