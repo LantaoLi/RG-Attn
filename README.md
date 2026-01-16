@@ -16,7 +16,7 @@ This work has been **accepted to ICCV 2025 DriveX Workshop** and **won the secon
 
 **📢 Update #2**
 
-A stronger and updated version of this work is now available at: [DRCP](https://github.com/LantaoLi/DRCP)
+A stronger and improved framework based on this work is now available at: [DRCP](https://github.com/LantaoLi/DRCP)
 
 ## Data Preparation
 - DAIR-V2X-C: Download the data from [this page](https://thudair.baai.ac.cn/index). We use complemented annotation, so please also follow the instruction of [this page](https://siheng-chen.github.io/dataset/dair-v2x-c-complemented/).
